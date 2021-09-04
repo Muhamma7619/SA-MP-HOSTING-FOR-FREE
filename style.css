@@ -1,6 +1,6 @@
 
 	body{
-		margin:7px%;
+		margin:7%;
 		padding:-15%;
 		background: url(bg.jpg) no-repeat;
 		background-size: 360px 550px;
@@ -44,11 +44,12 @@
 
 	legend{
 		color:purple;
-		font-style:italic;
+		font-family:cursive;
 		font-size:27px;
-		border:1px solid purple;
+		border:2px solid purple;
 		text-align:left;
 		border-radius:30px;
+		background-color:black;
 	}	
 	.input1{
 		border: 1px solid #ba9fe3;
@@ -91,8 +92,11 @@
 		font-size:10px;
 	}
 	label{
-		color:#281c4a;
+		color:purple;
 		font-size:16px;
+		border:0px solid ;
+		border-radius: 3px;
+		background-color:#efe8fa;
 		text-align:left;
 		font-style:lucida;
 		font-family:monospace;
@@ -116,5 +120,7 @@
 		height:25px;
 		margin:0%;
 		padding:0%;
+		border:1px solid black;
+		border-radius:50%;
 	}
 	
